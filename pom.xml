@@ -66,7 +66,7 @@
         <dependency>
             <groupId>net.milkbowl.vault</groupId>
             <artifactId>Vault</artifactId>
-            <version>1.5.6</version>
+            <version>1.6.7</version>
         </dependency>
     </dependencies>
 </project>
